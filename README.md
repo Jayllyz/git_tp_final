@@ -39,7 +39,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 Noms des étudiants : 
 * David Antony
 * Zhang Simon
-* Jolli Quention
+* Jolli Quentin
 
 Date du jour : 12/01/2023
 
